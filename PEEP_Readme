@@ -1,0 +1,25 @@
+This folder contains all the CAD files for the Breathney Peep,
+as well as most of the other 3d printed components in the Breathney Ventilator.
+For more info, please visit https://breathney.vub.be/
+
+Here is a guide for the various subfolders:
+
+- 3D print set
+	This folder should include all the 3d printed files that are currently used
+	on the machine, not including the Peep Valve. If there's any missing,
+	they can be found in the 'Archive - Old Cad files' folder.
+
+- Archive - Old Cad Files
+	This folder should include all the 3d printing cad files that were 
+	made for Breathney (excluding the flow sensor), including obsolete and
+	copies of recent models. 
+
+- Peep Custom
+	This folder includes the last version of the custom designed Peep valve.
+	For more information on the status of the peep valve, go to:
+	https://docs.google.com/document/d/1_dCSzMbqkTDkk7chgdDEI5coLvPB76hBqwDLJO8C05U/edit?usp=sharing
+
+- Peep Mimic
+	This folder includes the last version of the peep valve that was mimicked
+	after an existing valve. For more information on the status of the peep valve, go to:
+	https://docs.google.com/document/d/1_dCSzMbqkTDkk7chgdDEI5coLvPB76hBqwDLJO8C05U/edit?usp=sharing
