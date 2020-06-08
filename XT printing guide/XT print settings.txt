@@ -1,0 +1,34 @@
+========= Print settings =========
+
+For prusaslicer: start from the '0.20mm QUALITY', then adjust the following settings:
+
+infill: 15% rectilinear
+
+Speed:
+-------
+
+Perimeters: 45
+small perimeters: 25
+external perimeters : 25
+infill : 50
+solid infill : 50
+top solid infill : 40
+support material : 50
+support material interface : 100%
+bridges : 30
+gap fill: 40
+
+travel : 180
+
+first layer speed : 12
+
+========= Filamnt settings =========
+
+Basic PLA profile with nozzle at 250 and bed at 90
+
+--------------- 
+Notes:
+
+The filament can adheres so well to the PEI sheets that it's hard to remove.
+Try to avoid using brims. If you do, make sure the nozzle isn't too low. 
+The brim should be smooth, not too wavy. Any lower and the XT tends to fuse with the PEI
